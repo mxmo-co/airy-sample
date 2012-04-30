@@ -6,6 +6,7 @@ database_name = 'airydb' # replace with your Mongo DB name
 
 installed_apps = [
     'users',
+    'sample'
 ]
 
 template_context_processors = [
